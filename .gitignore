@@ -16,3 +16,5 @@ venv/
 .vscode/
 .idea/
 .DS_Store
+
+run.bat
